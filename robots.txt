@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clintonplumbing.ca/sitemap-index.xml
